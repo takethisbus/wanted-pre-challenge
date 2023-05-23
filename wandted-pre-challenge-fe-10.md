@@ -14,5 +14,7 @@
 - [x] 사이즈
 - [x] 상태 표현
 
-[링크](https://www.figma.com/file/O1RTAZcWpnZ6H2qECRwNFr/wanted-pre-onboarding?type=design&node-id=103%3A268&t=nnfGwDJiSgIm4GQq-1)
+
+## [Button](https://www.figma.com/file/O1RTAZcWpnZ6H2qECRwNFr/wanted-pre-onboarding?type=design&node-id=103%3A268&t=nnfGwDJiSgIm4GQq-1)
+
 <img width="525" alt="image" src="https://github.com/takethisbus/wanted-pre-challenge/assets/72902273/f44cc462-d77f-40d3-b10f-74ca733364f3">
